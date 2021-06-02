@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+}
+.team {
+  background-color: rgb(30, 172, 228);
+  text-align: center;
+  padding: 50px 0px;
+  width: 33.33%;
+  float: left;
+}
+.team img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.team h2 {
+  font-family: impact;
+  font-size: 35;
+  font-weight: normal;
+  text-transform: uppercase;
+  color: white;
+}
+.team p {
+  font-size: 15px;
+  color: white;
+  font-family: candara;
+}

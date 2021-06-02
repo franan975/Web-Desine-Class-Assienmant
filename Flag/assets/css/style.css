@@ -1,0 +1,151 @@
+* {
+  margin: 0px;
+}
+
+.green {
+  width: 500px;
+  height: 300px;
+  background-color: green;
+  margin: 50px auto;
+  overflow: hidden;
+}
+
+.red {
+  width: 250px;
+  height: 250px;
+  background-color: red;
+  border-radius: 50%;
+  margin: 24px auto;
+}
+
+.garmani {
+  width: 500px;
+  height: 100px;
+  background-color: red;
+  border-top: black solid 100px;
+  border-bottom: yellow solid 100px;
+  margin: 50px auto;
+}
+.ireland {
+  width: 170px;
+  height: 400px;
+  background-color: white;
+  border-left: green solid 170px;
+  border-right: orange solid 170px;
+  margin: 50px auto;
+}
+.india {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  border-top: orangered solid 100px;
+  border-bottom: green solid 100px;
+  margin: 0px auto;
+  text-align: center;
+}
+.india img {
+  width: 100px;
+  margin-top: 10px;
+}
+.belgium {
+  width: 170px;
+  height: 400px;
+  background-color: yellow;
+  border-left: black solid 170px;
+  border-right: red solid 170px;
+  margin: 50px auto;
+}
+.france {
+  width: 170px;
+  height: 400px;
+  background-color: white;
+  border-left: purple solid 170px;
+  border-right: rgb(218, 33, 33) solid 170px;
+  margin: 50px auto;
+}
+.nederland {
+  width: 500px;
+  height: 100px;
+  background-color: rgb(255, 255, 255);
+  border-top: rgb(180, 65, 65) solid 100px;
+  border-bottom: #1338a0 solid 100px;
+  margin: 50px auto;
+}
+.argentina {
+  width: 500px;
+  height: 100px;
+  background-color: white;
+  border-top: skyblue solid 100px;
+  border-bottom: skyblue solid 100px;
+  margin: 50px auto;
+  text-align: center;
+}
+.argentina img {
+  width: 100px;
+}
+.spain {
+  width: 500px;
+  height: 150px;
+  background-color: rgb(247, 192, 43);
+  border-top: red solid 60px;
+  border-bottom: red solid 60px;
+  margin: 50px auto;
+  text-align: center;
+}
+.spain img {
+  width: 150px;
+  margin-right: 1000px;
+}
+.italy {
+  width: 200px;
+  height: 300px;
+  background-color: white;
+  border-left: green solid 150px;
+  border-right: red solid 150px;
+  margin: 50px auto;
+}
+.indonasia {
+  width: 500px;
+  height: 200px;
+  background-color: rgb(223, 221, 221);
+  border-top: red solid 200px;
+  margin: 50px auto;
+}
+.ethiopia {
+  width: 500px;
+  height: 100px;
+  background-color: yellow;
+  border-top: green solid 100px;
+  border-bottom: red solid 100px;
+  margin: 50px auto;
+}
+.canada {
+  width: 300px;
+  height: 300px;
+  background-color: white;
+  border-left: red solid 150px;
+  border-right: red solid 150px;
+  margin: 50px auto;
+  overflow: hidden;
+  text-align: center;
+}
+.canada img {
+  width: 200px;
+  margin-top: 30px;
+}
+.russia {
+  width: 500px;
+  height: 100px;
+  background-color: royalblue;
+  border-top: rgb(201, 194, 194) solid 100px;
+  border-bottom: red solid 100px;
+  margin: 50px auto;
+}
+.gabon {
+  width: 500px;
+  height: 100px;
+  background-color: yellow;
+  border-top: green solid 100px;
+  border-bottom: rgb(42, 112, 218) solid 100px;
+  margin: 50px auto;
+}
